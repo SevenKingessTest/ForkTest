@@ -1,0 +1,8 @@
+log.txt
+my_table/*
+
+!my_table/例子.xlsx
+
+test.py
+test.ipynb
+
