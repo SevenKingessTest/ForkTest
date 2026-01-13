@@ -40,6 +40,8 @@ class YanMieKuaiChe(BaseSequentialStateMachine):
             ("23:00", "下列车"),
             ("25:00", "上/下列车"),
 
+            ("00:30", "圈养神器：上基地左下顶点对齐传送门右上顶点，向下空出6格放传送门，传送门下边左两格的下方2*2围起来"),
+
         ]
         point_on_minimap = [
             ("A", *_RED_POINTS["A"]),

@@ -40,6 +40,7 @@ class SiWangYaoLan(BaseSequentialStateMachine):
             ("25:00", "红点"),
             ("29:00", "红点"),
             ("33:00", "红点"),
+            ("0:30", "圈养神器：第一个构造体的下边下方的2*2就是神器位置"),
         ]
         point_on_minimap = [
             ("A", *_RED_POINTS["A"]),
