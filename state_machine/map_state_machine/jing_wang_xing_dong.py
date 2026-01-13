@@ -71,6 +71,7 @@ class JingWangXingDong(BaseSequentialStateMachine):
         # 状态0
         # =====================================
         map_process_table = [
+            ("0:30", "圈养神器：第一个传送门顶着凹槽，下边左两格的下方2*2就是神器位置"),
             ("3:36", "红点A/C")
         ]
         task_process_table = None
