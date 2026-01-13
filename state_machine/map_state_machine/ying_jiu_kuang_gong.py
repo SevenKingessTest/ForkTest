@@ -48,6 +48,7 @@ class YingJiuKuangGong(BaseSequentialStateMachine):
 
 
         self.map_process_table = [
+            ("0:30", "圈养神器：两个基地中间有个草占2*2，下边两格的下方2*2就是神器位置"),
             ("6:30", "红点A/C"),
             ("13:00", "红点B"),
             ("17:30", "红点C/A"),
