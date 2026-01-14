@@ -330,7 +330,7 @@ class JingWangXingDong(BaseSequentialStateMachine):
                     ("3", *_TOWER_2_RED_POINTS["3"]),
                     ("4", *_TOWER_2_RED_POINTS["4"]),
                     ("5", *_TOWER_2_RED_POINTS["5"]),
-                    ("b", *_TOWER_2["b"])
+                    ("b", *_TOWER_2["b"]),
                     ("c", *_TOWER_2["c"]),
                 ]
             elif self._tower_2_type == "B":
